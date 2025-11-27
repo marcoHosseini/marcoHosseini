@@ -11,6 +11,7 @@ I build secure infrastructures and applications. My focus is on system hardening
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Security Standards](https://img.shields.io/badge/Security-CIS%20%26%20BSI-0052cc?style=for-the-badge&logo=shield&logoColor=white)
 
+---
 ### 💻 Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
