@@ -2,6 +2,7 @@
 
 ### DevOps Engineer | Python Developer
 
+
 I build secure infrastructures and applications. My focus is on system hardening according to **CIS standards**, creating scalable solutions with Red Hat Linux, and developing applications with **Python and the Django framework**.
 ---
 
