@@ -33,4 +33,4 @@ Merged PR [#7581](https://github.com/bridgecrewio/checkov/pull/7581): fixed a `T
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/marco-hosseini/) · marco.hosseini@outlook.de
+[LinkedIn](https://www.linkedin.com/in/marco-hosseini/)
