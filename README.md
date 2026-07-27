@@ -29,8 +29,4 @@ Merged PR [#7581](https://github.com/bridgecrewio/checkov/pull/7581): fixed a `T
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
-### 📫 Contact
-
-[LinkedIn](www.linkedin.com/in/marco-hosseini-5b2303184)
